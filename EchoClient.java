@@ -55,7 +55,7 @@ public class EchoClient {
             System.out.println("Enter the message you want to Convert to uppercase :");
             while ((userInput = stdIn.readLine()) != null) {
                 out.println(userInput);
-                System.out.println("Final output:    " + in.readLine());
+                System.out.println("Final output: " + in.readLine());
             }
         } catch (UnknownHostException e) {
             System.err.println("Don't know about host " + hostName);
