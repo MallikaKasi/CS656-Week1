@@ -50,7 +50,7 @@ public class EchoServer {
                         new InputStreamReader(clientSocket.getInputStream()));) {
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
-                //out.println(inputLine);
+                // out.println(inputLine);
                 System.out.println("Received: " + inputLine);
                 String uppercased = inputLine.toUpperCase();
                 out.println(uppercased);
