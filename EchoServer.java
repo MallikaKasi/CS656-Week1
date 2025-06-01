@@ -52,6 +52,7 @@ public class EchoServer {
             while ((inputLine = in.readLine()) != null) {
                 // out.println(inputLine);
                 System.out.println("Received: " + inputLine);
+                // Added Code to convert the recevied Messages to Uppercase
                 String uppercased = inputLine.toUpperCase();
                 out.println(uppercased);
 
