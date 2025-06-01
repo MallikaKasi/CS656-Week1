@@ -52,7 +52,7 @@ public class EchoClient {
                 BufferedReader stdIn = new BufferedReader(
                         new InputStreamReader(System.in))) {
             String userInput;
-            System.out.println("Enter the message you want to Convert to uppercase :");
+            System.out.println("Enter the message you want to Convert to uppercase:");
             while ((userInput = stdIn.readLine()) != null) {
                 out.println(userInput);
                 System.out.println("Final output: " + in.readLine());
