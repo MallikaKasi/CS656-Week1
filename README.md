@@ -23,7 +23,9 @@ Group Members:
     Alexia (ac2888)
 
 *********************/
+
 Instructions:
+
 In this assignment, We modified the Java Echo Server program in the previous assignment (Java Echo ServerLinks to an external site.)  to run on a specified port and convert input messages to uppercase. For example, if the client sends "hello," the server will respond with "HELLO." 
 
 To Compile and Run:
