@@ -1,3 +1,4 @@
+
 /*
  * Copyright (c) 1995, 2013, Oracle and/or its affiliates. All rights reserved.
  *
@@ -28,7 +29,21 @@
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
+/*********************
+        Module 2: Assignment-The Adventure of Echo Server
 
+Course Name : CS 656-850, Summer 2025
+Group Name:  CharmKit      
+Group Members:
+    Nat (nl338)
+    Beno (bv274)
+    Mallika (mk2434)
+    Larson (lp399)
+    Angela (hchang12)
+    Alexia (ac2888)
+Date: 06/08/2025
+
+*********************/
 import java.io.*;
 import java.net.*;
 
