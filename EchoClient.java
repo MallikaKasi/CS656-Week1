@@ -31,7 +31,7 @@
  */
 /*********************
         Module 2: Assignment-The Adventure of Echo Server
-
+        Date: 06/08/2025
 Course Name : CS 656-850, Summer 2025
 Group Name:  CharmKit      
 Group Members:
@@ -41,7 +41,6 @@ Group Members:
     Larson (lp399)
     Angela (hchang12)
     Alexia (ac2888)
-Date: 06/08/2025
 
 *********************/
 import java.io.*;
