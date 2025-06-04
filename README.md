@@ -1,9 +1,13 @@
 ﻿# CS656-Week1
 /*********************
         Module 2: Assignment-The Adventure of Echo Server
+        
         Date: 06/08/2025
+        
 Course Name : CS 656-850, Summer 2025
-Group Name:  CharmKit      
+
+Group Name:  CharmKit 
+
 Group Members:
 
     Nat (nl338)
