@@ -31,11 +31,7 @@
  */
 /*********************
         Module 2: Assignment-The Adventure of Echo Server
-<<<<<<< HEAD
         Date: 06/08/2025
-=======
-
->>>>>>> 1b38b647e9190ea4b2447f6d0a081353c5e94a1e
 Course Name : CS 656-850, Summer 2025
 Group Name:  CharmKit      
 Group Members:
@@ -45,15 +41,10 @@ Group Members:
     Larson (lp399)
     Angela (hchang12)
     Alexia (ac2888)
-<<<<<<< HEAD
-=======
-Date: 06/08/2025
->>>>>>> 1b38b647e9190ea4b2447f6d0a081353c5e94a1e
 
 *********************/
 
 import java.net.*;
-import java.io.*;
 
 public class EchoServer {
     public static void main(String[] args) throws IOException {
